@@ -1,0 +1,16 @@
+{
+    "users":{
+        "hanane": {
+            "password": "123",
+            "t": "admin"
+        },
+        "marwa": {
+            "password": "456",
+            "t": "client"
+        },
+        "nariman": {
+            "password": "789",
+            "t": "client"
+        }
+    }
+}
